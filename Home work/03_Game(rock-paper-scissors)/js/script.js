@@ -1,5 +1,4 @@
-
-console.log('You ar at '+window.location);
+/* практика  js «Интерактивный макет ➡️ Комплексные условия (4.3.1) */
 
 const rock = 0;
 const scissors = 1;

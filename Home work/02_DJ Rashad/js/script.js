@@ -1,3 +1,4 @@
+/* практика  js «Работа c документом ➡️ практика (3.9) */
 
 let body = document.querySelector('body');
 body.style['background-color'] = "#696969";
